@@ -1,4 +1,7 @@
  This is kaiburr assessment project.
+ 
+ 
+ 
  Task 1 description: 
  Created REST API using springboot framework and used mongo Repository for storing the server data in MongoDB database.Created 4 APIs as mention in the documentation.
  
@@ -12,11 +15,12 @@
 
 
 
-Screenshot for task 2 (Swagger Codegen):
-
 
 Task 2 desription:
 For Swagger implementation I have added @EnableSwagger2 in the main application .swagger is used for APIs created in the project.After running the project it can be viewed on (localhost:9999/swagger-ui.html).
+
+
+Screenshot for task 2 (Swagger Codegen):
 ![Swagger API screenshots](https://user-images.githubusercontent.com/54777082/77892344-1caa4780-7290-11ea-97eb-d26eb590226f.JPG)
 
 
