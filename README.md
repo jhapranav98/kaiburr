@@ -5,3 +5,5 @@
 ![Screenshot (69)](https://user-images.githubusercontent.com/54777082/77892138-b7eeed00-728f-11ea-905e-8b5e31f14356.png)
  ![Screenshot (70)](https://user-images.githubusercontent.com/54777082/77892128-b32a3900-728f-11ea-9ffa-a6e8804c496d.png)
 
+Screenshot for task 2 (Swagger Codegen):
+
